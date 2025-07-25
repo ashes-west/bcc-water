@@ -77,17 +77,17 @@ Config = {
     ---------------------------------------------------------------
 
     -- Item Names from Database
-    canteen      = 'canteen',
+    canteen      = 'bcc_canteen',
 
-    emptyBucket  = 'wateringcan_empty',
-    cleanBucket  = 'wateringcan',
-    dirtyBucket  = 'wateringcan_dirtywater',
+    emptyBucket  = 'bcc_bucket_empty',
+    cleanBucket  = 'bcc_bucket_cleanwater',
+    dirtyBucket  = 'bcc_bucket_dirtywater',
 
     emptyBottle  = 'bcc_empty_bottle',
     cleanBottle  = 'bcc_clean_bottle',
     dirtyBottle  = 'bcc_dirty_bottle',
 
-    antidoteItem = 'antidote', -- Item name that cures sickness
+    antidoteItem = 'bcc_charcoal', -- Item name that cures sickness
     ---------------------------------------------------------------
 
     durability = {
