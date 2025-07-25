@@ -1,6 +1,6 @@
 Config = {
 
-    defaultlang = 'en_lang',
+    defaultlang = 'de_lang',
     ---------------------------------------------------------------
 
     devMode = {
